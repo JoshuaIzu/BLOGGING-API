@@ -1,4 +1,4 @@
-name: my-app-izu
+name: blogging-api-izu
 
 build:
   system: nixpacks
