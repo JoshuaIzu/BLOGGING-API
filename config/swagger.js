@@ -14,11 +14,11 @@ const options = {
         },
         servers: [
             {
-                url: 'http://localhost:3000',
+                url: 'https://blogging-api-x47f.onrender.com/',
                 description: 'Development server',
             },
             {
-                url: 'https://blogging-api.hostlesssite.com',
+                url: 'https://blogging-api-x47f.onrender.com/',
                 description: 'Production server',
             },
         ],
