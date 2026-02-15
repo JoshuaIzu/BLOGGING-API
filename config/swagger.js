@@ -79,7 +79,8 @@ const options = {
                     properties: {
                         status: { type: 'string', example: 'error' },
                         message: { type: 'string', example: 'Error description' }, 
-                },
+                    },
+                },    
             },
         },
     },
@@ -88,9 +89,8 @@ const options = {
             bearerAuth: [],
         },
     ],
-    },
-    apis: ['./routes/*.js'],
-};
+     apis: ['./routes/*.js']
+    };
 
 const swaggerSpec = swaggerJsdoc(options);
 
