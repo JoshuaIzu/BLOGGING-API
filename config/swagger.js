@@ -56,7 +56,7 @@ const options = {
                         updated_at: { type: 'string', format: 'date-time' },
                     },
                 },
-                SignUpRequest: {
+                SignupRequest: {
                     type: 'object',
                     required: ['first_name', 'last_name', 'email', 'password'],
                     properties: {
