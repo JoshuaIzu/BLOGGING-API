@@ -47,7 +47,5 @@ SwaggerDoc Image
 
 Interactive API documentation is available via Swagger UI at:
 ```
-http://localhost:3000/api-docs
+https://blogging-api-x47f.onrender.com/api-docs
 ```
-
-
